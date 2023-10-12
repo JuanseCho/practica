@@ -1,0 +1,16 @@
+EnfoqueFinanciero
+ControlFinanzasFuturo
+FocalizaTusFinanzas
+DominaTuDinero
+
+
+
+Problematica 
+
+Administrar las finanzas personales es un desafío al que muchas personas se enfrentan en su vida diaria. El seguimiento de los gastos, los ahorros y la planificación financiera futura puede resultar abrumador. Además, tomar decisiones financieras informadas requiere una comprensión clara de los ingresos y gastos, así como una visión a largo plazo de los objetivos financieros.
+
+Hay muchas herramientas y aplicaciones disponibles para ayudarle con esta tarea, pero muchas de ellas pueden ser difíciles de usar o no ofrecen las funciones que necesita. Algunas aplicaciones pueden ser demasiado simples y no proporcionar el nivel de análisis requerido, mientras que otras pueden ser demasiado complejas, con interfaces desordenadas y funciones difíciles de entender.
+
+
+Requerimientos funcionales  
+Requerimientos no funcionales.
